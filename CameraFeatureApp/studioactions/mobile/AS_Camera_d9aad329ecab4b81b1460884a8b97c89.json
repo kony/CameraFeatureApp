@@ -1,0 +1,17 @@
+{
+    "AS_Camera_d9aad329ecab4b81b1460884a8b97c89": {
+        "id": "AS_Camera_d9aad329ecab4b81b1460884a8b97c89",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onCapture_b052998070974534800a829f68402760",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCaptureFrmOverLay(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

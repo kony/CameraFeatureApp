@@ -1,0 +1,25 @@
+{
+    "AS_Form_ac287fca6611477a800b88c8daa52dc1": {
+        "id": "AS_Form_ac287fca6611477a800b88c8daa52dc1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImgcrop",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f076bf23f0c74b22a4c2b7c37a0144fd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a41e5650667c4c528300927a3f11dd91",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.sliderCrop.setEnabled(false);\nthis.view.btnCrop.setEnabled(false);\nthis.view.btnApply.setEnabled(false);",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }]
+    }
+}

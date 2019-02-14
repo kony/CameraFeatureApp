@@ -1,0 +1,17 @@
+{
+    "AS_Camera_f22ea22073a3461ea7e43d7173bf3135": {
+        "id": "AS_Camera_f22ea22073a3461ea7e43d7173bf3135",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onCapture_f9d1a45d56f14aae98334de99c68b48f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.assignCapturedImg(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

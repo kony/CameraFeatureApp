@@ -1,0 +1,17 @@
+{
+    "AS_Button_hcfcf88e46c245dc8f317c45102467c2": {
+        "id": "AS_Button_hcfcf88e46c245dc8f317c45102467c2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c1230d8ce5f3452eb26fb814dca2bb51",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.cropImage();\n",
+            "callbackType": null
+        }]
+    }
+}

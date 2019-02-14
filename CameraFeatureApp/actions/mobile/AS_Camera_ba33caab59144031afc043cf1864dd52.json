@@ -1,0 +1,23 @@
+{
+    "AS_Camera_ba33caab59144031afc043cf1864dd52": {
+        "id": "AS_Camera_ba33caab59144031afc043cf1864dd52",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImgRotation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "be3bd0971da142f199bdc1b335c47f6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onCapture_a4830f029601400481b1edc7dd8a21b2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.assignCapturedImg(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

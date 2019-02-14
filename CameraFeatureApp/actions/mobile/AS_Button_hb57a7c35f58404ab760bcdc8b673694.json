@@ -1,0 +1,28 @@
+{
+    "AS_Button_hb57a7c35f58404ab760bcdc8b673694": {
+        "id": "AS_Button_hb57a7c35f58404ab760bcdc8b673694",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPinchZoom",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dd504e42124543668906168c0d2adf94"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___de9c810e8bf7401ba995ebc8b0e14503",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cropImg",
+            "display": "cropImg",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

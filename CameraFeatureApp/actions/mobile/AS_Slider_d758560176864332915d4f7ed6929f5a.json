@@ -1,0 +1,31 @@
+{
+    "AS_Slider_d758560176864332915d4f7ed6929f5a": {
+        "id": "AS_Slider_d758560176864332915d4f7ed6929f5a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmImgRotation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "be3bd0971da142f199bdc1b335c47f6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f6326371f7d041e3b3c6a4c2c4caa334",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "rotateOnslide",
+            "display": "rotateOnslide",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

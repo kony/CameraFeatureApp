@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_skin_": "s2821f20f407423794b8fb262d5ec5e9",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s2821f20f407423794b8fb262d5ec5e9",
+    "id": "fltngBtn",
+    "ide_onClick": "AS_Button_b0e98a3a029244b39ad02f34db93331d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b8cbd5900ec74ea5962c4a87d9d1b50f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_b0e98a3a029244b39ad02f34db93331d",
+    "parent": "frmImgcrop",
+    "pf": "frmImgcrop",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 10
+}

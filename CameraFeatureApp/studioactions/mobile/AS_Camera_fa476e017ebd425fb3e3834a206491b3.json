@@ -1,0 +1,17 @@
+{
+    "AS_Camera_fa476e017ebd425fb3e3834a206491b3": {
+        "id": "AS_Camera_fa476e017ebd425fb3e3834a206491b3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onCapture_ca6790a9ceaf4df08396ab0a3e475f36",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.assignToVideo(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

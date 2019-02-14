@@ -1,0 +1,22 @@
+{
+    "AS_Label_a3a5d3dc0bf64f86b0dd8120e1097271": {
+        "id": "AS_Label_a3a5d3dc0bf64f86b0dd8120e1097271",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_d7254a3c30064e98a39ed865beaeac44",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ntf=new kony.mvc.Navigation(\"frmVideoProperties\");\nntf.navigate();"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Camera_ee105e3695924ed4951babd46bee8159": {
+        "id": "AS_Camera_ee105e3695924ed4951babd46bee8159",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOrientation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f46fecc95b43439db642b61056858194"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ce8eb8e459dd41c28c54be8aeb2cfb0d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCapturePortOrientaion(eventobject);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_e89f678ffc6a498e87e0d38acc29bb49": {
+        "id": "AS_Form_e89f678ffc6a498e87e0d38acc29bb49",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImgRotation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "be3bd0971da142f199bdc1b335c47f6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f217c139c6d44e57bf886b6773fcb476",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "diableWidgets",
+            "display": "diableWidgets",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }]
+    }
+}

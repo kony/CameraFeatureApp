@@ -1,0 +1,24 @@
+{
+    "AS_Form_d6c202756d134d1782471f73978f9470": {
+        "id": "AS_Form_d6c202756d134d1782471f73978f9470",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImgRotation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "be3bd0971da142f199bdc1b335c47f6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_postShow_aae947bf42604f81894261d495db4ad7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(kony.os.deviceInfo().name == \"android\")\n  {\n    this.view.capturedImage.width=\"1300px\";\n    this.view.capturedImage.height=\"1500px\";\n  }else{\n    this.view.capturedImage.width=\"1100px\";\n    this.view.capturedImage.height=\"1200px\";\n  }",
+            "callbackType": null,
+            "disabled": true
+        }]
+    }
+}

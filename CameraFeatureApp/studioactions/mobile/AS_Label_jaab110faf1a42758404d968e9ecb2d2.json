@@ -1,0 +1,23 @@
+{
+    "AS_Label_jaab110faf1a42758404d968e9ecb2d2": {
+        "id": "AS_Label_jaab110faf1a42758404d968e9ecb2d2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_h54253c4f4cd4ba7b5a73ddd6be39352",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ntf=new kony.mvc.Navigation(\"frmProperties\");\nntf.navigate();",
+            "callbackType": null
+        }]
+    }
+}

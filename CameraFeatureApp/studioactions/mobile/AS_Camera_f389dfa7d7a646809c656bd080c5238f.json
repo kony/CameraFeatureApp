@@ -1,0 +1,17 @@
+{
+    "AS_Camera_f389dfa7d7a646809c656bd080c5238f": {
+        "id": "AS_Camera_f389dfa7d7a646809c656bd080c5238f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onCapture_j3b4397295ce4f639f8af8bba76efc72",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCapturePrivateMode(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

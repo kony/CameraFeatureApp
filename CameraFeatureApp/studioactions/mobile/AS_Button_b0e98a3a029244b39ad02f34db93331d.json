@@ -1,0 +1,17 @@
+{
+    "AS_Button_b0e98a3a029244b39ad02f34db93331d": {
+        "id": "AS_Button_b0e98a3a029244b39ad02f34db93331d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ef778ad5100d44deb14a3c257aac41ae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ntf=new kony.mvc.Navigation(\"frmKnowledgeFramework\");\nntf.navigate();",
+            "callbackType": null
+        }]
+    }
+}

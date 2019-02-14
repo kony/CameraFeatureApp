@@ -1,0 +1,17 @@
+{
+    "AS_Button_e8434ed03c3d430c9225f18c8af36e21": {
+        "id": "AS_Button_e8434ed03c3d430c9225f18c8af36e21",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_d0fbfd0dfb6b46f8aad854f6688e2147",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.capturedImage.rawBytes=this.cameraRawBytes;",
+            "callbackType": null
+        }]
+    }
+}

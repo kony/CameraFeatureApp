@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbc5bda6d0bf4a71a9f60544ceb944e0",
+    "_text_": "LANDSCAPE",
+    "_top_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "androidwearos": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "captureorientation": 1,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "camLandscape",
+    "ide_onCapture": "AS_Camera_g73a757375bc484d814c70a0981d07f0",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "captureOrientation": 1
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b00ae54866ac4cdea87a185664a94075",
+    "name": "kony.ui.Camera",
+    "oncapture": "AS_Camera_g73a757375bc484d814c70a0981d07f0",
+    "parent": "flxBody",
+    "pf": "frmOrientation",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 1
+}

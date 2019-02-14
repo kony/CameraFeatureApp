@@ -1,0 +1,122 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbc5bda6d0bf4a71a9f60544ceb944e0",
+    "_text_": "Camera",
+    "_top_": {
+        "type": "string",
+        "value": "96dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "android": {
+        "enableOverlay": true,
+        "overlayConfig": {
+            "captureButtonSkin": "sbc5bda6d0bf4a71a9f60544ceb944e0",
+            "captureButtonText": "Capture",
+            "overlayForm": "e09a5d49374a46ddbfdf50d128a07cb9",
+            "startVideoButtonSkin": "sbc5bda6d0bf4a71a9f60544ceb944e0",
+            "startVideoButtonText": "Start",
+            "stopVideoButtonSkin": "sbc5bda6d0bf4a71a9f60544ceb944e0",
+            "stopVideoButtonText": "Stop",
+            "tapAnywhere": false,
+            "timerControlSkin": "sbc5bda6d0bf4a71a9f60544ceb944e0"
+        }
+    },
+    "androidwearos": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "capturemode": "photo",
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "enableoverlay": true,
+    "id": "CamOverlay",
+    "ide_onCapture": "AS_Camera_d9aad329ecab4b81b1460884a8b97c89",
+    "info": null,
+    "iphone": {
+        "enableOverlay": true,
+        "overlayConfig": {
+            "overlayForm": "e09a5d49374a46ddbfdf50d128a07cb9",
+            "startVideoButtonSkin": "sbc5bda6d0bf4a71a9f60544ceb944e0",
+            "startVideoButtonText": "Start",
+            "stopVideoButtonSkin": "sbc5bda6d0bf4a71a9f60544ceb944e0",
+            "stopVideoButtonText": "Stop",
+            "timerControlSkin": "sbc5bda6d0bf4a71a9f60544ceb944e0"
+        },
+        "psp": {
+            "nativeUserInterface": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d9303b79a8b84aeda0306fe1391c9a3c",
+    "name": "kony.ui.Camera",
+    "nativeUserInterface": false,
+    "oncapture": "AS_Camera_d9aad329ecab4b81b1460884a8b97c89",
+    "parent": "flxBody",
+    "pf": "frmcameraOverlay",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "winphone8": {
+        "overlayConfig": {
+            "tapAnywhere": false
+        }
+    },
+    "zindex": 1
+}

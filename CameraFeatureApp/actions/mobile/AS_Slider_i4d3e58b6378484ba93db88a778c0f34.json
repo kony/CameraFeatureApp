@@ -1,0 +1,26 @@
+{
+    "AS_Slider_i4d3e58b6378484ba93db88a778c0f34": {
+        "id": "AS_Slider_i4d3e58b6378484ba93db88a778c0f34",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmImgRotation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "be3bd0971da142f199bdc1b335c47f6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onSelection_fac2cc75c7cc403482970c12e1152d8e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCropSlideFunc();",
+            "callbackType": null
+        }]
+    }
+}

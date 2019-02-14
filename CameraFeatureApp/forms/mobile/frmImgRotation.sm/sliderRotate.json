@@ -1,0 +1,98 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSlider",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6.22%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_max_": 180,
+    "_min_": -180,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_step_": 1,
+    "_thickness_": 1,
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "android": {
+        "thumbImage": "slider_android.png"
+    },
+    "androidwearos": {
+        "thumbImage": "slider_android.png"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "orientation": "horizontal",
+            "viewType": "default"
+        }
+    },
+    "id": "sliderRotate",
+    "ide_onSelection": "AS_Slider_dd475e5348944655adcbdc367468f9f2",
+    "imgwt": 132,
+    "info": null,
+    "ipad": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iphone": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "00a0dd00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j55bf3ed5a604c099534bcfc46fd6493",
+    "leftskin": "s62d422a5f5f4bb997e6cb53e285dcd9",
+    "maxlabel": "180",
+    "minlabel": "-180",
+    "name": "kony.ui.Slider",
+    "noofsteps": 90,
+    "onselection": "AS_Slider_gb0c567107804cc4a678bd7335d2d92b",
+    "osPlatform": "iphone",
+    "osVersion": "iOS7",
+    "parent": "flxMain",
+    "pf": "frmImgRotation",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rightskin": "s5703b8db8594f869de48fe17509ff9f",
+    "selectedvalue": 0,
+    "stepwidth": 15.588888888888889,
+    "tabrcandroid": {
+        "thumbImage": "slider_android.png"
+    },
+    "thumbimage": "slider.png",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "zindex": 10
+}

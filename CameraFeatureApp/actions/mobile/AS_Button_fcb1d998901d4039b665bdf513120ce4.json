@@ -1,0 +1,23 @@
+{
+    "AS_Button_fcb1d998901d4039b665bdf513120ce4": {
+        "id": "AS_Button_fcb1d998901d4039b665bdf513120ce4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImgRotation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "be3bd0971da142f199bdc1b335c47f6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_f4cb1a6ad92c4356b4e195a1f28ab0cc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.rotateImg();\n",
+            "callbackType": null
+        }]
+    }
+}

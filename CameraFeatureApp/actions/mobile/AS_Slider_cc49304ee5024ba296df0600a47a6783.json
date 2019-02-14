@@ -1,0 +1,21 @@
+{
+    "AS_Slider_cc49304ee5024ba296df0600a47a6783": {
+        "id": "AS_Slider_cc49304ee5024ba296df0600a47a6783",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmImgRotation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "be3bd0971da142f199bdc1b335c47f6b"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

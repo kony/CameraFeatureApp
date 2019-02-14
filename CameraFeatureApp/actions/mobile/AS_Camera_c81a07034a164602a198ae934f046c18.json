@@ -1,0 +1,17 @@
+{
+    "AS_Camera_c81a07034a164602a198ae934f046c18": {
+        "id": "AS_Camera_c81a07034a164602a198ae934f046c18",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onCapture_if9d6ce4a326474c9e635be83b3fa3f6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCapturePublicMode(eventobject);",
+            "callbackType": null
+        }]
+    }
+}

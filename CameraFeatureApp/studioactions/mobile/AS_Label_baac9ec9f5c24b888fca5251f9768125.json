@@ -1,0 +1,29 @@
+{
+    "AS_Label_baac9ec9f5c24b888fca5251f9768125": {
+        "id": "AS_Label_baac9ec9f5c24b888fca5251f9768125",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmVideoProperties",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f8ea9d37f7fb4036b70108037b4d2899"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_ac7300393de046a18eaf1e187e8acd3d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ntf=new kony.mvc.Navigation(\"frmLanding\");\nntf.navigate();",
+            "callbackType": null
+        }]
+    }
+}

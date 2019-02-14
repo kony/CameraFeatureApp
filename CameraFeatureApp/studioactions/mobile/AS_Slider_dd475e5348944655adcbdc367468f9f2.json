@@ -1,0 +1,20 @@
+{
+    "AS_Slider_dd475e5348944655adcbdc367468f9f2": {
+        "id": "AS_Slider_dd475e5348944655adcbdc367468f9f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_d76acb148f76432fa159b8cae8bd2931",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCropSlideFunc();",
+            "callbackType": null
+        }]
+    }
+}
